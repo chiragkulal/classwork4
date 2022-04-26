@@ -1,0 +1,25 @@
+
+
+footer{
+  background-color: #3D6271;
+
+}
+h4{
+  margin-bottom: 0;
+}
+
+header,footer {
+    color: white;
+    background-color: #3D6271;
+    
+   
+}
+
+section{
+    background-color: darkgray;
+}
+section{
+    padding: 0%;
+    border: 0ch;
+    font-size: large;
+}
